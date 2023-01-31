@@ -1,0 +1,17 @@
+{
+  "name": "email-spoof-detection", 
+  "description": "To identify and prevent email spoofing attacks", 
+  "version": "1.0.0",
+  "main": "index.js",
+  "keywords": ["security", "spoof", "email parser", "email header analysis"], 
+  "author": {
+		"name": "Arun Govindasamy", 
+    "email": "govindasamyarun@gmail.com"
+  },  
+  "repository": {
+    "type": "git", 
+    "url": "https://github.com/govindasamyarun/email-spoof-detection"
+  },
+  "license": "MIT",
+  "dependencies": {}
+}
