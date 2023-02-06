@@ -13,6 +13,8 @@ $ npm i email-spoof-detection
 
 ## Node.js JavaScript
 
+Refer example.js
+
 ```js
 var analysis = require('email-spoof-detection');
 
